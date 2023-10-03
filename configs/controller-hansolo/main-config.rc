@@ -109,7 +109,7 @@ dbpopulate="yes"
 # no action is taken for database installation, creation or population.
 #
 # Here you define the database backend server IP address. You can use an IP or a FQDN:
-dbbackendhost="10.65.76.14"
+dbbackendhost="10.67.82.12"
 #
 # DB Max connections. This parameter needs to be adjusted according to your available
 # cores in your controller
